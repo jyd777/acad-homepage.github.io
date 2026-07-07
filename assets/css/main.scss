@@ -97,6 +97,11 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+.author__avatar img {
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;

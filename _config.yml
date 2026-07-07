@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yidong Jiang"
-description              : "M.S. in Machine Learning at Carnegie Mellon University. Research interests in graph learning, financial AI, and large language models."
+description              : "Graph learning · Financial AI · LLM evaluation"
 repository               : "jyd777/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yidong Jiang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.png"
   bio              : "M.S. in Machine Learning @ Carnegie Mellon University"
   location         : "Shanghai, China"
   employer         :
