@@ -24,7 +24,7 @@ My research interests span graph representation learning, adversarial attacks on
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/FinReasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 From Comprehension to Reasoning: A Hierarchical Benchmark for Automated Financial Research Reporting
@@ -36,7 +36,7 @@ _Neural Information Processing Systems (NeurIPS), 2026_ *(Under Review)*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/Fin-RATE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings
@@ -48,7 +48,7 @@ _The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 20
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/CNFinBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Beyond Knowledge to Agency: Evaluating Expertise, Autonomy, and Integrity in Finance with CNFinBench
@@ -60,7 +60,7 @@ _The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 20
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/NumCache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 NumCache: KV Cache Compression and Retrieval for Financial Document QA
@@ -84,7 +84,7 @@ _International Joint Conference on Artificial Intelligence - European Conference
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/SoftHist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SoftHist: Teaching Graph Injection Attackers to Camouflage with Memory
@@ -96,7 +96,7 @@ _The Nineteenth ACM International Conference on Web Search and Data Mining (WSDM
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Computing 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Computing 2025</div><img src='images/SAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges
@@ -108,7 +108,7 @@ _Intelligent Computing, 2025_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/WWW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Generative Dynamic Graph Representation Learning for Conspiracy Spoofing Detection
