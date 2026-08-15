@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -266,5 +266,117 @@
   }
   @include breakpoint($large) {
     display: none;
+  }
+}
+
+/* Keep the author profile as one vertical sidebar card at every viewport. */
+.profile_box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.25rem;
+  border: 1px solid $border-color;
+  border-radius: 0.75rem;
+  background: linear-gradient(145deg, #ffffff, #f7f9fc);
+  box-shadow: 0 6px 18px rgba(#1b365d, 0.08);
+}
+
+.profile_box .author__avatar,
+.profile_box .author__content,
+.profile_box .author__urls-wrapper {
+  display: block;
+  width: 100%;
+  padding-left: 0;
+}
+
+.profile_box .author__avatar {
+  min-width: 0;
+  text-align: center;
+
+  img {
+    width: 132px;
+    min-width: 0;
+    margin: 0 auto 0.75rem;
+    padding: 4px;
+    border: 1px solid $border-color;
+    box-shadow: 0 3px 10px rgba(#1b365d, 0.12);
+  }
+}
+
+.profile_box .author__name {
+  margin: 0 0 0.35rem;
+  text-align: center;
+  font-size: $type-size-4;
+}
+
+.profile_box .author__bio {
+  margin: 0;
+  color: $gray;
+  text-align: center;
+  line-height: 1.45;
+  white-space: normal;
+}
+
+.profile_box .author__research-interests {
+  margin: 1rem 0;
+  padding: 0.85rem 0 0;
+  border-top: 1px solid $border-color;
+  font-size: $type-size-6;
+  line-height: 1.5;
+
+  strong {
+    color: #00369f;
+  }
+}
+
+.profile_box .author__urls {
+  display: block;
+  position: relative;
+  right: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.profile_box .author__urls_sm {
+  display: none;
+}
+
+.profile_box .author__contact {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.45rem;
+  margin: 0 0 0.7rem;
+  white-space: normal;
+  line-height: 1.35;
+
+  > i,
+  > a > i {
+    width: 1.1rem;
+    margin-top: 0.2rem;
+    color: #00369f;
+    text-align: center;
+  }
+
+  a {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.45rem;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    overflow-wrap: anywhere;
+  }
+
+  small {
+    display: block;
+    margin-bottom: 0.1rem;
+    color: $gray;
+    font-size: 0.72em;
+    font-weight: bold;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
   }
 }

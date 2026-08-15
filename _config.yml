@@ -23,8 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yidong Jiang"
   avatar           : "images/avatar.png"
-  bio              : "M.S. in Machine Learning @ Carnegie Mellon University"
-  location         : "Shanghai, China"
+  bio              : "M.S. in Machine Learning<br>@ Carnegie Mellon University"
+  research_interests: "Graph learning, Multi-Agent Systems, Agent & LLM evaluation, Agent Evolution"
+  location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : 
   googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"

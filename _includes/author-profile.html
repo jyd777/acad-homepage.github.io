@@ -11,16 +11,14 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.research_interests %}<p class="author__research-interests"><strong>Research Interests</strong><br>{{ author.research_interests }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
-      {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li class="author__contact"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i><span><small>Location</small>{{ author.location }}</span></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -29,7 +27,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+        <li class="author__contact"><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span><small>Email</small>{{ author.email }}</span></a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -65,7 +63,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li class="author__contact"><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span><small>GitHub</small>github.com/{{ author.github }}</span></a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>

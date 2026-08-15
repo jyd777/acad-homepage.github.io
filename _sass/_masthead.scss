@@ -20,7 +20,8 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      width: 95%;
+      max-width: none;
     }
 
     nav {

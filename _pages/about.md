@@ -12,26 +12,38 @@ redirect_from:
 
 I am a Master of Science in Machine Learning (MSML) student at Carnegie Mellon University. I received my Bachelor of Engineering in Computer Engineering from Tongji University (GPA: 4.94/5.0, Top 3).
 
-My research interests span graph representation learning, adversarial attacks on graph neural networks, financial AI, and large language model evaluation. I have published at top venues including WWW, WSDM, KDD, and IJCAI-ECAI.
+My research interests span graph representation learning, adversarial attacks on graph neural networks, multi-agent systems, agent & large language model evaluation, and agent evolution. I have published at top venues including WWW, WSDM, KDD, and IJCAI-ECAI.
 
 
 # 🔥 News
 
-- *2026.02*: &nbsp;🎉 Multiple papers accepted to KDD 2026, including Fin-RATE, CNFinBench, and NumCache.
+- *2026.05*: &nbsp;🎉 Multiple papers accepted to KDD 2026, including Fin-RATE, CNFinBench, and NumCache.
 - *2025.01*: &nbsp;🎉 Achieved Top 10.78% in the 32nd CCF Certified Software Professional examination.
 - *2024.05*: &nbsp;🎉 Won Meritorious Winner at the Interdisciplinary Contest in Modeling (ICM).
 
 
+# 💻 Internships
+
+<div class="experience-card" markdown="1">
+
+**Shanghai Artificial Intelligence Laboratory** · Shanghai, China  
+*2025.12 – 2026.07*  
+*Model Evaluation and Benchmarking Team — Machine Learning Engineer Intern*
+
+- Contributed to CNFinBench, a financial LLM evaluation benchmark.
+- Designed multi-round attack and defense protocols.
+- Implemented evaluation algorithms for MedBench and the Model Verification Center.
+
+</div>
+
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/FinReasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinReasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 From Comprehension to Reasoning: A Hierarchical Benchmark for Automated Financial Research Reporting
 
-Zhu Y*, **<u>Jiang Y</u>***, Xu Z, Yao Y, Cheng D, Ding J, Xu J
-
-_Neural Information Processing Systems (NeurIPS), 2026_ *(Under Review)*
+Zhu Y<sup>*</sup>, **<u>Jiang Y</u>**<sup>*</sup>, Xu Z, Yao Y, Cheng D, Ding J, Xu J
 
 </div>
 </div>
@@ -53,7 +65,7 @@ _The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 20
 
 Beyond Knowledge to Agency: Evaluating Expertise, Autonomy, and Integrity in Finance with CNFinBench
 
-Ding J*, Ding C*, **<u>Jiang Y</u>***, Pang W, Xiao B, Liu Z, Chen J, Zhong Y, Yuan T, Guan J, Cheng D, Xu J
+Ding J<sup>*</sup>, Ding C<sup>*</sup>, **<u>Jiang Y</u>**<sup>*</sup>, Pang W, Xiao B, Liu Z, Chen J, Zhong Y, Yuan T, Guan J, Cheng D, Xu J
 
 _The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026_
 
@@ -72,7 +84,7 @@ _The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 20
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-ECAI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-ECAI 2026</div><img src='images/IJCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Conspiracy Spoofing Detection via Structure-Augmented Generative Graph Model
@@ -89,7 +101,7 @@ _International Joint Conference on Artificial Intelligence - European Conference
 
 SoftHist: Teaching Graph Injection Attackers to Camouflage with Memory
 
-**<u>Jiang Y</u>***, Xu Z*, Shao L*, Zhu P, Cheng D
+**<u>Jiang Y</u>**<sup>*</sup>, Xu Z<sup>*</sup>, Shao L<sup>*</sup>, Zhu P, Cheng D
 
 _The Nineteenth ACM International Conference on Web Search and Data Mining (WSDM), 2026_
 
@@ -120,10 +132,10 @@ _The ACM Web Conference (WWW), 2025_
 </div>
 </div>
 
-*Equal contribution*
+<p class="publication-note"><sup>*</sup> Equal contribution</p>
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - *2025.04* Gold Award, Tongji University Challenge Cup (University-Wide)
 - *2025.01* Top 10.78%, 32nd China Computer Federation Certified Software Professional (National)
@@ -140,22 +152,6 @@ _The ACM Web Conference (WWW), 2025_
 
 - *2026.09 – Present*, M.S. in Machine Learning, **Carnegie Mellon University**, Pittsburgh, PA, United States
 - *2022.09 – 2026.06*, B.E. in Computer Engineering, **Tongji University**, Shanghai, China (GPA: 4.94/5.0, Top 3)
-
-
-# 💻 Internships
-
-- *2025.12 – 2026.07*, **Shanghai Artificial Intelligence Laboratory**, Shanghai, China  
-  *Model Evaluation and Benchmarking Team – Machine Learning Engineer Intern*  
-  Contributed to CNFinBench, a financial LLM evaluation benchmark. Designed multi-round attack and defense protocols. Implemented evaluation algorithms for MedBench and the Model Verification Center.
-
-
-# 🛠 Projects
-
-- *2024.04 – 2025.08*, **Compiler Development (Rust-like Language)** — *Team Leader*  
-  Designed a Rust-like compiler with DFA-based lexical analysis, LR(1) syntax analysis, semantic rules, and register allocation with assembly verified in the Mars simulator.
-
-- *2024.04 – 2024.06*, **Carpool Ride-Sharing Platform** — *Team Leader*  
-  Developed a carpool web and mobile app using Uniapp (Vue3), Flask, and MySQL. Engaged in the full software development lifecycle from requirement analysis to testing.
 
 
 # 💡 Skills
