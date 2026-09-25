@@ -58,7 +58,6 @@ Med-GRADE: Medical Grading and Rubric-based Assessment of Doctor-Patient Encount
 
 </div>
 
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/Fin-RATE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
