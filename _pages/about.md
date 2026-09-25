@@ -160,7 +160,7 @@ _The ACM Web Conference (WWW), 2025_
 </div>
 
 <p class="publication-note"><sup>*</sup> Equal contribution</p>
-
+<div style="clear: both;"></div>
 
 # 🏅 Honors and Awards
 
