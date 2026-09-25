@@ -14,6 +14,7 @@ I am a Master of Science in Machine Learning (MSML) student at Carnegie Mellon U
 
 My research interests span graph representation learning, adversarial attacks on graph neural networks, multi-agent systems, agent & large language model evaluation, and agent evolution. I have published at top venues including WWW, WSDM, KDD, and IJCAI-ECAI.
 
+<span class="anchor" id="news"></span>
 
 # 🔥 News
 
@@ -23,6 +24,7 @@ My research interests span graph representation learning, adversarial attacks on
 - *2025.01*: &nbsp;🎉 Achieved Top 10.78% in the 32nd CCF Certified Software Professional examination.
 - *2024.05*: &nbsp;🎉 Won Meritorious Winner at the Interdisciplinary Contest in Modeling (ICM).
 
+<span class="anchor" id="internships"></span>
 
 # 💻 Internships
 
@@ -38,6 +40,8 @@ My research interests span graph representation learning, adversarial attacks on
 
 </div>
 
+
+<span class="anchor" id="publications"></span>
 # 📝 Publications
 
 <div class='paper-box'>
@@ -164,6 +168,8 @@ _The ACM Web Conference (WWW), 2025_
 <p class="publication-note"><sup>*</sup> Equal contribution</p>
 <div style="clear: both;"></div>
 
+<span class="anchor" id="honors"></span>
+
 # 🏅 Honors and Awards
 
 - *2025.04* Gold Award, Tongji University Challenge Cup (University-Wide)
@@ -176,12 +182,14 @@ _The ACM Web Conference (WWW), 2025_
 - *2023.09* 1st Prize, 2022–2023 Undergraduate Student Excellence Scholarship (University-Wide)
 - *2023.09* Bronze Award, Tongji University Challenge Cup (University-Wide)
 
+<span class="anchor" id="education"></span>
 
 # 📖 Educations
 
 - *2026.09 – Present*, M.S. in Machine Learning, **Carnegie Mellon University**, Pittsburgh, PA, United States
 - *2022.09 – 2026.06*, B.E. in Computer Engineering, **Tongji University**, Shanghai, China (GPA: 4.94/5.0, Top 3)
 
+<span class="anchor" id="skills"></span>
 
 # 💡 Skills
 
