@@ -1,22 +1,22 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/acad-homepage.github.io/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/acad-homepage.github.io/#news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/acad-homepage.github.io/#publications"
 
   - title: "Honors and Awards"
-    url: "/#honors"
+    url: "/acad-homepage.github.io/#honors"
 
   - title: "Educations"
-    url: "/#education"
+    url: "/acad-homepage.github.io/#education"
 
   - title: "Internships"
-    url: "/#internships"
+    url: "/acad-homepage.github.io/#internships"
 
   - title: "Skills"
-    url: "/#skills"
+    url: "/acad-homepage.github.io/#skills"
