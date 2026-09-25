@@ -17,6 +17,8 @@ My research interests span graph representation learning, adversarial attacks on
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉 FinReasoning accepted to NeurIPS 2026
+- *2026.08*: &nbsp;🎉 MedGRADE accepted to EMNLP 2026
 - *2026.05*: &nbsp;🎉 Multiple papers accepted to KDD 2026, including Fin-RATE, CNFinBench, and NumCache.
 - *2025.01*: &nbsp;🎉 Achieved Top 10.78% in the 32nd CCF Certified Software Professional examination.
 - *2024.05*: &nbsp;🎉 Won Meritorious Winner at the Interdisciplinary Contest in Modeling (ICM).
@@ -38,7 +40,7 @@ My research interests span graph representation learning, adversarial attacks on
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinReasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/FinReasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 From Comprehension to Reasoning: A Hierarchical Benchmark for Automated Financial Research Reporting
@@ -46,6 +48,16 @@ From Comprehension to Reasoning: A Hierarchical Benchmark for Automated Financia
 Zhu Y<sup>*</sup>, **<u>Jiang Y</u>**<sup>*</sup>, Xu Z, Yao Y, Cheng D, Ding J, Xu J
 
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/MedGRADE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Med-GRADE: Medical Grading and Rubric-based Assessment of Doctor-Patient Encounters
+
+**<u>Jiang Y</u>**<sup>*</sup>, Ding C<sup>*</sup>, Lu R, Zhang R, Jiang Y, Li T, Ning J, Li C, Zhang H, Ding J, Chen P
+
+</div>
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/Fin-RATE.png' alt="sym" width="100%"></div></div>
