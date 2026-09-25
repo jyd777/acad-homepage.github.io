@@ -1,21 +1,22 @@
+# main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "#news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "#publications"
 
   - title: "Honors and Awards"
-    url: "/#honors"
+    url: "#honors"
 
   - title: "Educations"
-    url: "/#education"
+    url: "#education"
 
   - title: "Internships"
-    url: "/#internships"
+    url: "#internships"
 
   - title: "Skills"
-    url: "/#skills"
+    url: "#skills"
