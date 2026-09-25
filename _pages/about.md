@@ -40,22 +40,21 @@ My research interests span graph representation learning, adversarial attacks on
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/FinReasoning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2026</div>
+      <img src='images/FinReasoning.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
 
 From Comprehension to Reasoning: A Hierarchical Benchmark for Automated Financial Research Reporting
 
 Zhu Y<sup>*</sup>, **<u>Jiang Y</u>**<sup>*</sup>, Xu Z, Yao Y, Cheng D, Ding J, Xu J
 
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/MedGRADE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Med-GRADE: Medical Grading and Rubric-based Assessment of Doctor-Patient Encounters
-
-**<u>Jiang Y</u>**<sup>*</sup>, Ding C<sup>*</sup>, Lu R, Zhang R, Jiang Y, Li T, Ning J, Li C, Zhang H, Ding J, Chen P
-
+  </div>
 </div>
 
 
@@ -70,6 +69,23 @@ _The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 20
 
 </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2026</div>
+      <img src='images/MedGRADE.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+Med-GRADE: Medical Grading and Rubric-based Assessment of Doctor-Patient Encounters
+
+**<u>Jiang Y</u>**<sup>*</sup>, Ding C<sup>*</sup>, Lu R, Zhang R, Jiang Y, Li T, Ning J, Li C, Zhang H, Ding J, Chen P
+
+  </div>
+  </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/CNFinBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
