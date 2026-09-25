@@ -58,18 +58,6 @@ Zhu Y<sup>*</sup>, **<u>Jiang Y</u>**<sup>*</sup>, Xu Z, Yao Y, Cheng D, Ding J,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/Fin-RATE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings
-
-**<u>Jiang Y</u>**, Chen J, Makri E, Chen J, Li P, Maatouk A, Tassiulas L, Brenner E, Xiang B, Ying R
-
-_The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026_
-
-</div>
-</div>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -86,6 +74,20 @@ Med-GRADE: Medical Grading and Rubric-based Assessment of Doctor-Patient Encount
 
   </div>
   </div>
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/Fin-RATE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings
+
+**<u>Jiang Y</u>**, Chen J, Makri E, Chen J, Li P, Maatouk A, Tassiulas L, Brenner E, Xiang B, Ying R
+
+_The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026_
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/CNFinBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
